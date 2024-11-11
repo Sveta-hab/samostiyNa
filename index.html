@@ -1,0 +1,54 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>University Selection</title>
+</head>
+<body>
+    <h1>Select a University</h1>
+    <select id="university-select" onchange="showDetails()">
+        <option value="">-- Select a University --</option>
+    </select>
+
+    <h2>University Details</h2>
+    <div id="details"></div>
+
+    <script>
+        let universityData = [];
+
+        // Завантажуємо дані про університети
+        fetch('/universities')
+            .then(response => response.json())
+            .then(data => {
+                universityData = data;
+                const select = document.getElementById("university-select");
+                
+                // Заповнюємо випадаючий список
+                data.forEach(university => {
+                    const option = document.createElement("option");
+                    option.value = university["Name"];
+                    option.text = university["Name"];
+                    select.appendChild(option);
+                });
+            });
+
+        // Відображаємо інформацію про вибраний університет
+        function showDetails() {
+            const selectedUniversity = document.getElementById("university-select").value;
+            const detailsDiv = document.getElementById("details");
+            detailsDiv.innerHTML = "";  // Очищаємо попередні дані
+
+            if (selectedUniversity) {
+                const university = universityData.find(u => u["Name"] === selectedUniversity);
+                
+                detailsDiv.innerHTML = `
+                    <p><strong>Rank:</strong> ${university["Rank"]}</p>
+                    <p><strong>Tuition and Fees:</strong> ${university["Tuition and fees"]}</p>
+                    <p><strong>Undergrad Enrollment:</strong> ${university["Undergrad Enrollment"]}</p>
+                    <p><strong>Cluster:</strong> ${university["Cluster"]}</p>
+                `;
+            }
+        }
+    </script>
+</body>
+</html>

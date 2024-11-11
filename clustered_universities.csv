@@ -1,0 +1,232 @@
+Name,Rank,Tuition and fees,Undergrad Enrollment,Cluster
+Princeton University,1,45320.0,5402.0,default_value
+Harvard University,2,47074.0,6699.0,default_value
+University of Chicago,3,52491.0,5844.0,default_value
+Yale University,3,49480.0,5532.0,default_value
+Columbia University,5,55056.0,6102.0,default_value
+Stanford University,5,47940.0,6999.0,default_value
+Massachusetts Institute of Technology,7,48452.0,4527.0,default_value
+Duke University,8,51265.0,6639.0,default_value
+University of Pennsylvania,8,51464.0,9726.0,default_value
+Johns Hopkins University,10,50410.0,6524.0,default_value
+Dartmouth College,11,51438.0,4307.0,default_value
+California Institute of Technology,12,47577.0,1001.0,default_value
+Northwestern University,12,50855.0,8314.0,default_value
+Brown University,14,51367.0,6652.0,default_value
+Cornell University,15,50953.0,14315.0,default_value
+Rice University,15,43918.0,3910.0,default_value
+University of Notre Dame,15,49685.0,8462.0,default_value
+Vanderbilt University,15,45610.0,6883.0,default_value
+Washington University in St. Louis,19,49770.0,7504.0,default_value
+Emory University,20,47954.0,6867.0,default_value
+Georgetown University,20,50547.0,7562.0,default_value
+University of California--Berkeley,20,40191.0,27496.0,default_value
+University of Southern California,23,52217.0,18810.0,default_value
+Carnegie Mellon University,24,52040.0,6454.0,default_value
+University of California--Los Angeles,24,39518.0,29585.0,default_value
+University of Virginia,24,45066.0,16736.0,default_value
+Tufts University,27,52430.0,5290.0,default_value
+University of Michigan--Ann Arbor,27,43476.0,28312.0,default_value
+Wake Forest University,27,49308.0,4871.0,default_value
+University of North Carolina--Chapel Hill,30,33916.0,18415.0,default_value
+Boston College,31,51296.0,9192.0,default_value
+College of William & Mary,32,41718.0,6301.0,default_value
+University of Rochester,32,50142.0,6304.0,default_value
+Brandeis University,34,51570.0,3621.0,default_value
+Georgia Institute of Technology,34,32404.0,15142.0,default_value
+New York University,36,49062.0,25722.0,default_value
+Case Western Reserve University,37,46006.0,5121.0,default_value
+University of California--Santa Barbara,37,40704.0,20607.0,default_value
+Boston University,39,50240.0,17932.0,default_value
+Northeastern University,39,47655.0,13697.0,default_value
+Rensselaer Polytechnic Institute,39,50797.0,5864.0,default_value
+Tulane University,39,51010.0,6662.0,default_value
+University of California--Irvine,39,39458.0,25256.0,default_value
+Lehigh University,44,48320.0,5075.0,default_value
+University of California--Davis,44,40728.0,28384.0,default_value
+University of California--San Diego,44,41387.0,26590.0,default_value
+University of Illinois--Urbana-Champaign,44,31320.0,33368.0,default_value
+University of Miami,44,47004.0,11122.0,default_value
+University of Wisconsin--Madison,44,32738.0,31662.0,default_value
+Pepperdine University,50,50022.0,3533.0,default_value
+University of Florida,50,28666.0,35043.0,default_value
+Villanova University,50,49280.0,6994.0,default_value
+Pennsylvania State University--University Park,50,32382.0,40742.0,default_value
+Ohio State University--Columbus,54,29229.0,45289.0,default_value
+University of Washington,54,34791.0,31063.0,default_value
+George Washington University,56,51950.0,11157.0,default_value
+Southern Methodist University,56,50358.0,6411.0,default_value
+University of Georgia,56,29844.0,27547.0,default_value
+University of Texas--Austin,56,34676.0,39619.0,default_value
+Fordham University,60,47317.0,8855.0,default_value
+Purdue University--West Lafayette,60,28804.0,29497.0,default_value
+Syracuse University,60,45022.0,15196.0,default_value
+University of Connecticut,60,35858.0,18826.0,default_value
+University of Maryland--College Park,60,32045.0,27443.0,default_value
+Worcester Polytechnic Institute,60,46994.0,4299.0,default_value
+Clemson University,66,32796.0,18016.0,default_value
+Yeshiva University,66,40670.0,2744.0,default_value
+Brigham Young University--Provo,68,5300.0,30221.0,default_value
+University of Pittsburgh,68,29758.0,18908.0,default_value
+Rutgers University--New Brunswick,70,30023.0,35484.0,default_value
+Baylor University,71,42006.0,14189.0,default_value
+Stevens Institute of Technology,71,48838.0,2873.0,default_value
+University of Minnesota--Twin Cities,71,22210.0,34071.0,default_value
+American University,74,44853.0,7909.0,default_value
+Clark University,74,43150.0,2397.0,default_value
+Texas A&M University--College Station,74,28768.0,48960.0,default_value
+University of Massachusetts--Amherst,74,30123.0,22748.0,default_value
+Virginia Tech,74,29371.0,25384.0,default_value
+Miami University--Oxford,79,31592.0,16387.0,default_value
+University of California--Santa Cruz,79,40241.0,16231.0,default_value
+University of Delaware,79,31420.0,18322.0,default_value
+Colorado School of Mines,82,34828.0,4608.0,default_value
+Michigan State University,82,39090.0,39143.0,default_value
+Texas Christian University,82,42670.0,8894.0,default_value
+University of Iowa,82,28413.0,23357.0,default_value
+Binghamton University--SUNY,86,22164.0,13491.0,default_value
+Indiana University--Bloomington,86,34246.0,38364.0,default_value
+Marquette University,86,38470.0,8334.0,default_value
+University of Denver,86,46362.0,5758.0,default_value
+University of San Diego,86,46140.0,5647.0,default_value
+University of Tulsa,86,38796.0,3478.0,default_value
+Florida State University,92,24673.0,32706.0,default_value
+North Carolina State University--Raleigh,92,26399.0,24111.0,default_value
+University of Colorado--Boulder,92,35079.0,27010.0,default_value
+University of Vermont,92,40364.0,10973.0,default_value
+Drexel University,96,51030.0,14138.0,default_value
+Saint Louis University,96,40726.0,8248.0,default_value
+Stony Brook University--SUNY,96,26266.0,16831.0,default_value
+Auburn University,99,28840.0,21786.0,default_value
+Loyola University Chicago,99,41384.0,11079.0,default_value
+SUNY College of Environmental Science and Forestry,99,17620.0,1839.0,default_value
+University at Buffalo--SUNY,99,26270.0,19951.0,default_value
+Illinois Institute of Technology,103,45214.0,2991.0,default_value
+University of Alabama,103,26950.0,31958.0,default_value
+University of Oregon,103,33442.0,20538.0,default_value
+University of Tennessee,103,30858.0,21863.0,default_value
+Rochester Institute of Technology,107,38568.0,12607.0,default_value
+University of New Hampshire,107,31424.0,13034.0,default_value
+University of San Francisco,107,44494.0,6782.0,default_value
+University of South Carolina,107,31282.0,25237.0,default_value
+Iowa State University,111,21483.0,30034.0,default_value
+University of Dayton,111,40940.0,8665.0,default_value
+University of Missouri,111,25892.0,27812.0,default_value
+University of Nebraska--Lincoln,111,23148.0,20182.0,default_value
+University of Oklahoma,111,21451.0,22132.0,default_value
+University of the Pacific,111,44588.0,3735.0,default_value
+University of Utah,111,27039.0,23794.0,default_value
+Michigan Technological University,118,30968.0,5721.0,default_value
+Seton Hall University,118,39258.0,6090.0,default_value
+Temple University,118,25994.0,28609.0,default_value
+University of California--Riverside,118,40263.0,18608.0,default_value
+University of Kansas,118,25932.0,19245.0,default_value
+University of St. Thomas,118,39594.0,6240.0,default_value
+The Catholic University of America,124,42536.0,3480.0,default_value
+DePaul University,124,37626.0,15961.0,default_value
+Duquesne University,124,35062.0,5961.0,default_value
+Howard University,124,24908.0,6883.0,default_value
+University of Arizona,124,30025.0,33732.0,default_value
+Arizona State University--Tempe,129,25458.0,41828.0,default_value
+Clarkson University,129,46132.0,3257.0,default_value
+Colorado State University,129,28374.0,24433.0,default_value
+New School,129,45535.0,6792.0,default_value
+Hofstra University,133,42160.0,6824.0,default_value
+University of Kentucky,133,26334.0,22705.0,default_value
+Kansas State University,135,23429.0,19859.0,default_value
+Louisiana State University--Baton Rouge,135,27005.0,26156.0,default_value
+Mercer University,135,35130.0,4667.0,default_value
+New Jersey Institute of Technology,135,30326.0,8008.0,default_value
+Rutgers University--Newark,135,29480.0,7713.0,default_value
+University of Arkansas,135,23168.0,22159.0,default_value
+University of Cincinnati,135,26334.0,25054.0,default_value
+University of Mississippi,135,22012.0,18785.0,default_value
+George Mason University,143,32582.0,23062.0,default_value
+Oregon State University,143,28846.0,24612.0,default_value
+Washington State University,143,25673.0,24470.0,default_value
+Adelphi University,146,34034.0,4852.0,default_value
+Ohio University,146,21208.0,23513.0,default_value
+San Diego State University,146,18244.0,29234.0,default_value
+St. John Fisher College,146,31880.0,2805.0,default_value
+University at Albany--SUNY,146,22244.0,12908.0,default_value
+University of Texas--Dallas,146,33654.0,15575.0,default_value
+Illinois State University,152,20886.0,18426.0,default_value
+Immaculata University,152,35210.0,1790.0,default_value
+Oklahoma State University,152,20978.0,21046.0,default_value
+University of California--Merced,152,39944.0,6237.0,default_value
+University of Illinois--Chicago,152,26526.0,17575.0,default_value
+University of La Verne,152,39900.0,2864.0,default_value
+University of Massachusetts--Lowell,152,29125.0,13266.0,default_value
+Seattle Pacific University,159,38940.0,3202.0,default_value
+University of Alabama--Birmingham,159,17654.0,11511.0,default_value
+University of Maryland--Baltimore County,159,24492.0,11243.0,default_value
+University of Rhode Island,159,28852.0,13641.0,default_value
+University of South Florida,159,17325.0,31111.0,default_value
+Biola University,164,36696.0,4225.0,default_value
+Maryville University of St. Louis,164,27958.0,2795.0,default_value
+Missouri University of Science & Technology,164,26152.0,6841.0,default_value
+St. John's University,164,39460.0,16210.0,default_value
+Virginia Commonwealth University,164,31608.0,24051.0,default_value
+Union University,169,30420.0,2829.0,default_value
+University of Hawaii--Manoa,169,33764.0,13689.0,default_value
+Edgewood College,171,27530.0,1813.0,default_value
+Florida Institute of Technology,171,40446.0,3586.0,default_value
+University of Idaho,171,22040.0,9116.0,default_value
+University of Louisville,171,24626.0,15769.0,default_value
+University of Wyoming,171,16215.0,10045.0,default_value
+Ball State University,176,25428.0,16602.0,default_value
+Lipscomb University,176,29756.0,3030.0,default_value
+Mississippi State University,176,20142.0,17421.0,default_value
+Montclair State University,176,20318.0,16336.0,default_value
+Texas Tech University,176,22861.0,29237.0,default_value
+University of Central Florida,176,22467.0,54513.0,default_value
+University of New Mexico,176,21302.0,20522.0,default_value
+Andrews University,183,27684.0,1733.0,default_value
+Azusa Pacific University,183,36120.0,5883.0,default_value
+University of Maine,183,29498.0,9297.0,default_value
+West Virginia University,183,21432.0,22498.0,default_value
+Widener University,183,42870.0,3554.0,default_value
+Kent State University,188,18376.0,23607.0,default_value
+North Dakota State University,188,19790.0,12037.0,default_value
+Pace University,188,42772.0,8747.0,default_value
+Robert Morris University,188,28250.0,4497.0,default_value
+Suffolk University,188,35578.0,5565.0,default_value
+University of Hartford,188,37790.0,5246.0,default_value
+Bowling Green State University,194,18332.0,14334.0,default_value
+University of Houston,194,25410.0,34716.0,default_value
+Western Michigan University,194,25713.0,18567.0,default_value
+Indiana University-Purdue University--Indianapolis,197,29791.0,21985.0,default_value
+Lesley University,197,25750.0,1520.0,default_value
+University of Alabama--Huntsville,197,20622.0,6013.0,default_value
+University of Colorado--Denver,197,29334.0,14036.0,default_value
+University of Nevada--Reno,197,21052.0,17770.0,default_value
+California State University--Fullerton,202,17596.0,33144.0,default_value
+Central Michigan University,202,23670.0,20498.0,default_value
+Louisiana Tech University,202,25851.0,10682.0,default_value
+South Dakota State University,202,11403.0,11007.0,default_value
+University of Alaska--Fairbanks,202,22469.0,7610.0,default_value
+University of North Carolina--Charlotte,202,20193.0,22732.0,default_value
+University of North Dakota,202,18899.0,11577.0,default_value
+University of South Dakota,202,11688.0,7435.0,default_value
+East Carolina University,210,22904.0,23039.0,default_value
+Montana State University,210,23042.0,13707.0,default_value
+Old Dominion University,210,27028.0,20101.0,default_value
+University of Missouri--Kansas City,210,22714.0,11253.0,default_value
+Ashland University,214,20392.0,3716.0,default_value
+Dallas Baptist University,214,26180.0,3315.0,default_value
+Northern Illinois University,214,23799.0,15027.0,default_value
+Nova Southeastern University,214,27660.0,4641.0,default_value
+Southern Illinois University--Carbondale,214,27130.0,13031.0,default_value
+University of Montana,214,24562.0,8732.0,default_value
+Benedictine University,220,32170.0,3347.0,default_value
+California State University--Fresno,220,17209.0,21482.0,default_value
+Gardner-Webb University,220,29850.0,2615.0,default_value
+New Mexico State University,220,21234.0,12526.0,default_value
+Shenandoah University,220,31322.0,2010.0,default_value
+Tennessee Technological University,220,24800.0,9801.0,default_value
+University of Massachusetts--Boston,220,32023.0,12949.0,default_value
+University of Massachusetts--Dartmouth,220,19270.0,7295.0,default_value
+University of Missouri--St. Louis,220,26277.0,13569.0,default_value
+University of North Carolina--Greensboro,220,21595.0,15951.0,default_value
+University of Southern Mississippi,220,16094.0,11840.0,default_value
+Utah State University,220,19772.0,25259.0,default_value
